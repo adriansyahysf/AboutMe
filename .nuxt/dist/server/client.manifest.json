@@ -7,12 +7,12 @@
     "module": true,
     "resourceType": "script"
   },
-  "D:/PEMROGRAMMAN WEB/Responsi/responsi_pemrogramman_web/node_modules/nuxt/dist/app/entry.js": {
+  "D:/PUNYA ADEK/Porto/responsi_pemrogramman_web/node_modules/nuxt/dist/app/entry.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
     "isEntry": true,
-    "file": "D:/PEMROGRAMMAN WEB/Responsi/responsi_pemrogramman_web/node_modules/nuxt/dist/app/entry.js"
+    "file": "D:/PUNYA ADEK/Porto/responsi_pemrogramman_web/node_modules/nuxt/dist/app/entry.js"
   }
 }

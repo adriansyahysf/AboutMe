@@ -6,7 +6,9 @@
       <p>below here is my project</p>
       <div class="card-deck">
         <div class="card glass" data-aos="flip-down">
-          <img src="assets/img/slide1.png" class="card-img-top project-img" alt="majalah">
+          <a href="https://drive.google.com/file/d/1N7726RnmP4TU1ocBKteXEcEg1O893JqU/view?usp=sharing" target="_blank">
+            <img src="assets/img/slide1.png" class="card-img-top project-img" alt="majalah">
+          </a>
           <div class="card-body">
             <p class="card-text">Project membuat majalah seputar genshin impact.</p>
           </div>
@@ -18,7 +20,17 @@
           </div>
         </div>
         <div class="card glass" data-aos="flip-down" data-aos-duration="3000">
+          <a href="https://drive.google.com/file/d/1hWZsK9ObfnmrDub9mcu-vOdz18e8asWq/view?usp=sharing" target="_blank">
+            <img src="assets/img/ads.png" class="card-img-top project-img" alt="">
+          </a>
+          <div class="card-body">
+            <p class="card-text">Iklan minuman berenergi.</p>
+          </div>
+        </div>
+        <div class="card glass" data-aos="flip-down" data-aos-duration="3000">
+          <a href="https://website-tujuan-kamu.com" target="_blank">
           <img src="assets/img/web.png" class="card-img-top project-img" alt="">
+          </a>
           <div class="card-body">
             <p class="card-text">Website ini juga merupakan project saya.</p>
           </div>

@@ -2,7 +2,7 @@
   <section id="home" class="navbarku">
     <div class="navbar">
       <div class="navbar-left">
-        <span>Profile'me</span>
+        <span>Adriansyahysf</span>
       </div>
       <div class="navbar-right">
         <ul>

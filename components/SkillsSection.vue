@@ -13,23 +13,23 @@
               <div class="About-Skills">
                 <small>HTML</small>
                 <div class="progress mb-3" style="height: 5px" data-aos="zoom-in" data-aos-duration="3000">
-                  <div class="progress-bar bg-primary" role="progressbar" style="width: 50%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div class="progress-bar bg-primary" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
                 <small>CSS</small>
                 <div class="progress mb-3" style="height: 5px" data-aos="zoom-in" data-aos-duration="3000">
-                  <div class="progress-bar bg-primary" role="progressbar" style="width: 50%" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div class="progress-bar bg-primary" role="progressbar" style="width: 60%" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
                 <small>C++</small>
                 <div class="progress mb-3" style="height: 5px" data-aos="zoom-in" data-aos-duration="3000">
-                  <div class="progress-bar bg-primary" role="progressbar" style="width: 40%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div class="progress-bar bg-primary" role="progressbar" style="width: 75%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
                 <small>Design</small>
                 <div class="progress mb-3" style="height: 5px" data-aos="zoom-in" data-aos-duration="3000">
-                  <div class="progress-bar bg-primary" role="progressbar" style="width: 70%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div class="progress-bar bg-primary" role="progressbar" style="width: 85%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
                 <small>MySQL</small>
                 <div class="progress mb-3" style="height: 5px" data-aos="zoom-in" data-aos-duration="3000">
-                  <div class="progress-bar bg-primary" role="progressbar" style="width: 45%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div class="progress-bar bg-primary" role="progressbar" style="width: 50%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
             </div>
@@ -38,43 +38,47 @@
       </div>
     </div>
 
-    <div class="game">
+    <div class="tools">
       <div class="title-2" data-aos="zoom-in">
-        <h2>Games</h2>
-        <p>( that I usually play )</p>
+        <h2>Tools</h2>
+        <p>( Another tools besides coding )</p>
       </div>
       <div class="cards">
         <div class="card" data-aos="flip-up" data-aos-duration="2000">
-          <a href="https://playvalorant.com/en-us/download/" target="_blank">
-            <div class="game-image-wrapper">
-              <img src="assets/img/valorant.jpg" width="100px" height="100" alt="Valorant">
-              <div class="game-name">Valorant</div>
+            <div class="tools-image-wrapper">
+              <img src="assets/img/photoshop.png" width="100px" height="100" alt="Photoshop">
+              <div class="tools-name">Photoshop</div>
             </div>
-          </a>
         </div>
         <div class="card" data-aos="flip-up" data-aos-duration="3000">
-          <a href="https://wutheringwaves.kurogames.com/en/" target="_blank">
-            <div class="game-image-wrapper">
-              <img src="assets/img/wuwa.png" width="100px" height="100" alt="Wuthering Waves">
-              <div class="game-name">Wuthering Waves</div>
+            <div class="tools-image-wrapper">
+              <img src="assets/img/indesign.png" width="100px" height="100" alt="Indesign">
+              <div class="tools-name">Indesign</div>
             </div>
-          </a>
         </div>
         <div class="card" data-aos="flip-up" data-aos-duration="2000">
-          <a href="https://hsr.hoyoverse.com/ua2?lp=sr03&utm_source=SEA_google_SEA_search_UA2_Brand&hoyotrace_channel=ga_channel&gad_source=1&gclid=Cj0KCQjw7ZO0BhDYARIsAFttkCg-yGkTS_fJvCkikpavu6Qo8gv-NnbLf7WybPHZD7GUm83xe2WHXX8aAnPJEALw_wcB" target="_blank">
-            <div class="game-image-wrapper">
-              <img src="assets/img/hsr.png" width="100px" height="100" alt="Honkai: Star Rail">
-              <div class="game-name">Honkai: Star Rail</div>
+            <div class="tools-image-wrapper">
+              <img src="assets/img/AE.png" width="100px" height="100" alt="After Effects">
+              <div class="tools-name">After Effects</div>
             </div>
-          </a>
         </div>
         <div class="card" data-aos="flip-up" data-aos-duration="3000">
-          <a href="https://osu.ppy.sh/" target="_blank">
-            <div class="game-image-wrapper">
-              <img src="assets/img/osu.png" width="100px" height="100" alt="Osu">
-              <div class="game-name">Osu!</div>
+            <div class="tools-image-wrapper">
+              <img src="assets/img/Illustrator.png" width="100px" height="100" alt="Illustrator">
+              <div class="tools-name">Illustrator</div>
             </div>
-          </a>
+        </div>
+         <div class="card" data-aos="flip-up" data-aos-duration="3000">
+            <div class="tools-image-wrapper">
+              <img src="assets/img/Figma.png" width="100px" height="100" alt="Figma">
+              <div class="tools-name">Figma</div>
+            </div>
+        </div>
+        <div class="card" data-aos="flip-up" data-aos-duration="3000">
+            <div class="tools-image-wrapper">
+              <img src="assets/img/premiere.png" width="100px" height="100" alt="Premiere Pro">
+              <div class="tools-name">Premiere Pro</div>
+            </div>
         </div>
       </div>
     </div>
@@ -139,11 +143,12 @@ export default {
   overflow: hidden;
 }
 
-.game-image-wrapper {
+.tools-image-wrapper img {
   position: relative;
+  border-radius: 15px;
 }
 
-.game-name {
+.tools-name {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -156,7 +161,7 @@ export default {
   transition: opacity 0.3s ease-in-out;
 }
 
-.card:hover .game-name {
+.card:hover .tools-name {
   opacity: 1;
 }
 </style>

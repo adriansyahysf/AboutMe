@@ -3,7 +3,7 @@
     <div class="content">
       <div class="content-fill">
         <h2>Welcome to my profile</h2>
-        <p>Halo, nama saya Adriansyah Yusuf Bimantara. Asal dari Yogyakarta dan saat ini sedang menempuh pendidikan di <a href="https://amikom.ac.id/" style="color: #007bff;">Universitas Amikom Yogyakarta</a>. Saya memiliki minat yang besar dalam programming dan desain. Saya senang menghabiskan waktu luang dengan belajar programming dan design.</p>
+        <p>Halo, nama saya Adriansyah Yusuf Bimantara. Asal dari Yogyakarta dan saat ini sedang menempuh pendidikan di <a href="https://amikom.ac.id/" style="color: #6172FF;">Universitas Amikom Yogyakarta</a>. Saya memiliki minat yang besar dalam programming dan desain. Saya senang menghabiskan waktu luang dengan belajar programming dan design.</p>
         <a href="#contact" class="contact-button">Massage me</a>
       </div>
 
