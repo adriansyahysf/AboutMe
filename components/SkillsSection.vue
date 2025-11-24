@@ -64,7 +64,7 @@
         </div>
         <div class="card" data-aos="flip-up" data-aos-duration="3000">
             <div class="tools-image-wrapper">
-              <img src="assets/img/Illustrator.png" width="100px" height="100" alt="Illustrator">
+              <img src="assets/img/illustrator.png" width="100px" height="100" alt="Illustrator">
               <div class="tools-name">Illustrator</div>
             </div>
         </div>
